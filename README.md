@@ -1,4 +1,4 @@
-# AustinTrafficAccidentsToday
+# Visualization of Traffic Accidents in Austin Today
 
 
 Visualization of today's traffic accidents in Austin with real time data (More to be added)
