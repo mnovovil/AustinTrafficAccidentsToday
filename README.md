@@ -6,7 +6,7 @@ By running the entire notebook we will visualize an up to date visulization of T
   
   2- It is necessary to authenticate the API to get the full dataset
 
-Visualization (Might not show properly on the GitHut notebook, attached is a screenshot of the output)
+Visualization (Might not show properly on the GitHub notebook, attached is a screenshot of the output)
 
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/Visualization.png">
