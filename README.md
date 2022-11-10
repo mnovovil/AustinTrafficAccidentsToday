@@ -1,4 +1,4 @@
-# Visualization of Today's Traffic Accidents in Austin
+# Interactive Visualization of Today's Traffic Accidents in Austin
 
 By running the entire notebook we will visualize an up to date visulization of Traffic Accidents in Austin
 
