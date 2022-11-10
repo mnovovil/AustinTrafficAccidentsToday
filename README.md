@@ -9,4 +9,4 @@ Visualization of today's traffic accidents in Austin with real time data (More t
 Visualization (Might not show properly on the GitHut notebook)
 
 
-<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/Visualization.png" width="50%" height="50%">
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/Visualization.png" width="75%" height="75%">
