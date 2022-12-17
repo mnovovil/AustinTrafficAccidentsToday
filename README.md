@@ -12,8 +12,12 @@ Visualization (Might not show properly on the GitHub notebook, attached is a scr
 
 All accidents in one day (Most granularity)
 
-<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/Visualization.png">
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/Visualization.png" width="50%" height="50%">
 
 All accidents in one day (ZIP code level)
 
-<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_zip.png">
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_zip.png" width="50%" height="50%">
+
+HotSpots and ColdSpots
+
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/hotspot.png" width="50%" height="50%"> 
