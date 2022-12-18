@@ -8,7 +8,7 @@ By running the entire notebook we will visualize an up to date visulization of T
   
   3. ZIP code shapefiles are in this repository. https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/ZIP%20Code%20Data.zip
 
-Visualization (Might not show properly on the GitHub notebook, attached is a screenshot of the output)
+Visualizations
 
 All accidents in one day (Most granularity)
 
