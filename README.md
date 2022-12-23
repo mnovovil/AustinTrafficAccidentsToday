@@ -8,27 +8,27 @@ By running the entire notebook we will visualize an up to date visulization of T
   
   3. ZIP code shapefiles are in this repository. https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/ZIP%20Code%20Data.zip
 
-Visualizations
+# Visualizations
 
-All accidents in one day (Most granularity)
+## All accidents in one day (Most granularity)
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_visualization_point.png" width="50%" height="50%">
 
-All accidents in one day (ZIP code level)
+## All accidents in one day (ZIP code level)
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_visualization_zip.png" width="50%" height="50%">
 
-HotSpots and ColdSpots
+## HotSpots and ColdSpots
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/hotspot.png" width="50%" height="50%"> 
 
-Spatial & Spatio Temporal Clusters of Accidents 
+# Spatial & Spatio Temporal Clusters of Accidents 
 
 
-Spatial Clusters (DBSCAN)
+## Spatial Clusters (DBSCAN)
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/spatial_clusters.png" width="50%" height="50%"> 
 
-Spatial-Temporal Clusters (ST-DBSCAN)
+## Spatial-Temporal Clusters (ST-DBSCAN)
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/spatio_temporal_clusters.png" width="50%" height="50%"> 
