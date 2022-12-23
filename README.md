@@ -24,8 +24,11 @@ HotSpots and ColdSpots
 
 Spatial & Spatio Temporal Clusters of Accidents 
 
+
 Spatial Clusters (DBSCAN)
+
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/spatial_clusters.png" width="50%" height="50%"> 
 
 Spatial-Temporal Clusters (ST-DBSCAN)
+
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/spatio_temporal_clusters.png" width="50%" height="50%"> 
