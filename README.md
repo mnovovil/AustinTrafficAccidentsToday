@@ -1,6 +1,6 @@
-# Interactive Visualization of Today's Traffic Accidents in Austin
+# Today's Traffic Accidents in Austin
 
-By running the entire notebook we will visualize an up to date visulization of Traffic Accidents in Austin
+By running the entire notebook we will visualize an up to date visulization of Traffic Accidents in Austin, Clusters of Accidents and a statistical analysis of teh record of accidents.
 
   1. Data comes from https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Traffic-Incident-Reports/dx9v-zd7x
   
@@ -12,12 +12,20 @@ Visualizations
 
 All accidents in one day (Most granularity)
 
-<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/Visualization.png" width="50%" height="50%">
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_visualization_point.png" width="50%" height="50%">
 
 All accidents in one day (ZIP code level)
 
-<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_zip.png" width="50%" height="50%">
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_visualization_zip.png" width="50%" height="50%">
 
 HotSpots and ColdSpots
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/hotspot.png" width="50%" height="50%"> 
+
+Spatial & Spatio Temporal Clusters of Accidents 
+
+Spatial Clusters (DBSCAN)
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/spatial_clusters.png" width="50%" height="50%"> 
+
+Spatial-Temporal Clusters (ST-DBSCAN)
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/spatio_temporal_clusters.png" width="50%" height="50%"> 
