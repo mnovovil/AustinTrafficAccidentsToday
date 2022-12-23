@@ -12,11 +12,11 @@ By running the entire notebook we will visualize an up to date visulization of T
 
 ## All accidents in one day (Most granularity)
 
-<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_visualization_point.png" width="50%" height="50%">
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/point_data_viz.png" width="50%" height="50%">
 
 ## All accidents in one day (ZIP code level)
 
-<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/accident_visualization_zip.png" width="50%" height="50%">
+<img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/zip_data_viz.png" width="50%" height="50%">
 
 ## HotSpots and ColdSpots
 
