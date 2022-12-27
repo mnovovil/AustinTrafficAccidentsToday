@@ -1,5 +1,7 @@
 # Today's Traffic Accidents in Austin
 
+*This is a non lucrative personal project, it is not associated with any coursework or company.*
+
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/OpenData%20Portal.png" width="50%" height="50%">
 
 
