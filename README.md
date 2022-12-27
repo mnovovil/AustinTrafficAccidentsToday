@@ -1,7 +1,5 @@
 # Today's Traffic Accidents in Austin
 
-*This is a non lucrative personal project, it is not associated with any coursework or company.*
-
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/OpenData%20Portal.png" width="50%" height="50%">
 
 
@@ -14,3 +12,5 @@ Up to date visulization of Traffic Accidents in Austin, Geospatial Clusters of A
   2. It is necessary to authenticate the API to get the full dataset
   
   3. ZIP code shapefiles are in this repository. https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/ZIP%20Code%20Data.zip
+
+*This is a non lucrative personal project, it is not associated with any coursework or company.*
