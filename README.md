@@ -12,5 +12,7 @@ Up to date visulization of Traffic Accidents in Austin, Geospatial Clusters of A
   2. It is necessary to authenticate the API to get the full dataset
   
   3. ZIP code shapefiles are in this repository. https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/ZIP%20Code%20Data.zip
+  
+  4. Retrieve global-hourly weather data from NOAA (KATT Station) - it will be merged and used for predictions. https://www.ncei.noaa.gov/access/services/data/v1
 
 *This is a non lucrative personal project, it is not associated with any coursework or company.*
