@@ -5,7 +5,7 @@
 
 <img src="https://github.com/mnovovil/AustinTrafficAccidentsToday/blob/main/Austin_Accidents.jpg" width="50%" height="50%">
 
-Up to date visulization of Traffic Accidents in Austin, Geospatial Clusters of Accidents and a Statistical Analysis of the Records of Accidents. (Predicting where accidents will happen is coming in the near future)
+Up to date visulization of Traffic Accidents in Austin, Geospatial Clusters of Accidents and a Statistical Analysis of the Records of Accidents. (Predicting where accidents will happen is coming in the near future using road weather data and NOAA weather data)
 
   1. Real time Accident Data comes from https://data.austintexas.gov/Transportation-and-Mobility/Real-Time-Traffic-Incident-Reports/dx9v-zd7x
   
